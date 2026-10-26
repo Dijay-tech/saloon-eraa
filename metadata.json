@@ -1,0 +1,7 @@
+{
+  "name": "Riwaj Beauty Salon",
+  "description": "Premium beauty, bridal mehndi, facial, skincare, and hair salon on Kamla Link Road, Dinga, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
